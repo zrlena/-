@@ -1,6 +1,6 @@
 <h1 align="center">Satoru Gojo MD<br></h1>
 <p align="center">
-  <img src="https://opedyboy.sirv.com/Welcome/1654526477427.jpg" alt="" width="540" height="300"/></p>
+  <img src="https://opedyboy.sirv.com/Welcome/1654526477427.jpg" alt="" width="600" height="300"/></p>
 
 <p align="center">
 
@@ -33,12 +33,14 @@ heroku/nodejs
 ```
 
 # Instalação manual 👇
-## `Requirements`
+## `Requisitos`
 * [Node.js](https://nodejs.org/en/)
 * [Git](https://git-scm.com/downloads)
 * [FFmpeg](https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2020-12-08-13-03/ffmpeg-n4.3.1-26-gca55240b8c-win64-gpl-4.3.zip)
 * [Libwebp](https://developers.google.com/speed/webp/download)
-* Any text editor
+* Recomendações: 
+* Windows: Vscode
+* Android: Acode
 
 ## `Clone Repo & Installation dependencies`
 ```bash
@@ -83,7 +85,7 @@ sh gojo.sh
 tanto o bot quanto o baileys multi device estão em beta, peço compreensão por conta de alguns erros
 
 Vire dono &&  edite o algumas opções em .js [`config.js`](https://github.com/bruno918/satorumd/blob/main/settings.js)
-Bot feito utilizando a Ayumi-Api .A melhor rest-api brasileira! [`Ayumi`](https://ayumi-api.herokuapp.com/)
+Bot feito utilizando a Ayumi-Api .A melhor rest-api brasileira! [`Ayumi`](https://ayumi-apis.herokuapp.com/)
 
 
 ## agradecimentos 
@@ -91,7 +93,7 @@ Bot feito utilizando a Ayumi-Api .A melhor rest-api brasileira! [`Ayumi`](https:
 * [`Mhankbarbar`](https://github.com/MhankBarBar)
 * [`DikaArdnt`](https://github.com/DikaArdnt)
 * [`Xeon`](https://github.com/DGXeon/CheemsBot-MD2)
-* [`Ayumi-Api`](https://ayumi-api.herokuapp.com/)
+* [`Ayumi-Api`](https://ayumi-apis.herokuapp.com/)
 
 
 Faça uma doação
