@@ -64,7 +64,9 @@ pkg install imagemagick -y
 git clone https://github.com/bruno918/satorumd.git
 cd satorumd
 git clone https://github.com/bruno918/node_modules.git
-sh gojo.sh
+node index.js
+
+Na próxima execução use sh satoru.sh
 
 ```
 ## `Na VPS`
