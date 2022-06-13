@@ -96,8 +96,7 @@ Bot feito utilizando a Ayumi-Api .A melhor rest-api brasileira! [`Ayumi`](https:
 * [`DikaArdnt`](https://github.com/DikaArdnt)
 * [`Xeon`](https://github.com/DGXeon/CheemsBot-MD2)
 * [`Ayumi-Api`](https://ayumi-apis.herokuapp.com/)
-
-
+* Principalmente ao Breno/São, o maior contribuidor.
 Faça uma doação
 * Minha chave pix:  efc33c68-78bf-4447-a400-5f99eaa0a5dd.
 
