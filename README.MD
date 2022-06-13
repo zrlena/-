@@ -42,13 +42,7 @@ heroku/nodejs
 * Windows: Vscode
 * Android: Acode
 
-## `Clone Repo & Installation dependencies`
-```bash
-git clone https://github.com/bruno918/satorumd.git
-cd satorumd
-git colne https://github.com/bruno918/node_modules.git
-sh gojo.sh
-```
+
 ## `No Termux/Ssh/Ubuntu`
 ```bash
 apt update
