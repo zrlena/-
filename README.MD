@@ -58,7 +58,7 @@ cd satorumd
 git clone https://github.com/bruno918/node_modules.git
 node index.js
 
-Na próxima execução use sh satoru.sh
+Na próxima execução use sh gojo.sh
 
 ```
 
